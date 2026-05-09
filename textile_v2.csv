@@ -1,0 +1,1001 @@
+customer_name,material_type,sales_date,meters_sold,district,state,region,version
+Textile_House_136,Cotton,2025-11-24,432.21,Pune,Maharashtra,West,2.1.0
+Textile_House_102,Synthetic,2025-07-20,379.69,Mumbai,Maharashtra,West,2.1.0
+Textile_House_145,Polyester,2025-04-25,467.3,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_145,Linen,2025-08-25,945.56,Howrah,West Bengal,East,2.1.0
+Textile_House_142,Synthetic,2025-01-02,535.7,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_142,Polyester,2025-09-17,285.72,Howrah,West Bengal,East,2.1.0
+Textile_House_102,Silk,2025-04-28,538.35,Cuttack,Odisha,East,2.1.0
+Textile_House_116,Cotton,2025-11-24,128.44,Durgapur,West Bengal,East,2.1.0
+Textile_House_103,Linen,2025-08-01,229.34,Sambalpur,Odisha,East,2.1.0
+Textile_House_121,Silk,2025-08-14,839.18,Surat,Gujarat,West,2.1.0
+Textile_House_107,Synthetic,2025-01-17,442.31,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_147,Cotton,2025-03-20,442.62,Mumbai,Maharashtra,West,2.1.0
+Textile_House_131,Cotton,2025-05-21,449.9,Kolkata,West Bengal,East,2.1.0
+Textile_House_116,Cotton,2025-06-10,606.1,Puri,Odisha,East,2.1.0
+Textile_House_146,Synthetic,2025-07-27,406.82,Surat,Gujarat,West,2.1.0
+Textile_House_140,Synthetic,2025-10-13,821.87,Howrah,West Bengal,East,2.1.0
+Textile_House_101,Silk,2025-05-21,793.62,Mumbai,Maharashtra,West,2.1.0
+Textile_House_130,Linen,2025-05-26,554.15,Cuttack,Odisha,East,2.1.0
+Textile_House_108,Polyester,2025-03-28,288.3,Puri,Odisha,East,2.1.0
+Textile_House_149,Linen,2025-09-16,657.34,Pune,Maharashtra,West,2.1.0
+Textile_House_127,Synthetic,2025-04-22,474.57,Mumbai,Maharashtra,West,2.1.0
+Textile_House_123,Cotton,2025-04-15,661.87,Cuttack,Odisha,East,2.1.0
+Textile_House_143,Polyester,2025-10-31,11.68,Mumbai,Maharashtra,West,2.1.0
+Textile_House_138,Synthetic,2025-11-26,733.14,Howrah,West Bengal,East,2.1.0
+Textile_House_131,Linen,2025-01-31,318.07,Cuttack,Odisha,East,2.1.0
+Textile_House_150,Polyester,2025-10-23,191.84,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_143,Synthetic,2025-06-11,520.09,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_146,Linen,2025-01-19,773.13,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_138,Silk,2025-04-19,789.21,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_143,Cotton,2025-12-26,984.41,Pune,Maharashtra,West,2.1.0
+Textile_House_142,Cotton,2025-05-26,121.47,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_122,Polyester,2025-12-02,873.37,Sambalpur,Odisha,East,2.1.0
+Textile_House_132,Polyester,2025-01-11,111.96,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_140,Cotton,2025-01-21,682.7,Puri,Odisha,East,2.1.0
+Textile_House_115,Cotton,2025-04-25,710.17,Surat,Gujarat,West,2.1.0
+Textile_House_136,Polyester,2025-05-24,448.85,Mumbai,Maharashtra,West,2.1.0
+Textile_House_147,Synthetic,2025-04-07,249.87,Howrah,West Bengal,East,2.1.0
+Textile_House_102,Cotton,2025-09-28,6.51,Pune,Maharashtra,West,2.1.0
+Textile_House_149,Cotton,2025-04-28,351.98,Puri,Odisha,East,2.1.0
+Textile_House_106,Cotton,2025-06-17,521.1,Howrah,West Bengal,East,2.1.0
+Textile_House_148,Synthetic,2025-10-20,829.78,Pune,Maharashtra,West,2.1.0
+Textile_House_108,Cotton,2025-06-02,232.49,Durgapur,West Bengal,East,2.1.0
+Textile_House_126,Linen,2025-08-22,63.19,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_130,Cotton,2025-06-28,853.05,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_119,Linen,2025-08-13,705.59,Kolkata,West Bengal,East,2.1.0
+Textile_House_131,Linen,2025-09-27,793.73,Mumbai,Maharashtra,West,2.1.0
+Textile_House_113,Synthetic,2025-01-06,40.89,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_140,Synthetic,2025-01-14,527.74,Kolkata,West Bengal,East,2.1.0
+Textile_House_131,Linen,2025-08-02,617.98,Durgapur,West Bengal,East,2.1.0
+Textile_House_145,Silk,2025-10-04,449.74,Cuttack,Odisha,East,2.1.0
+Textile_House_113,Synthetic,2025-10-01,890.38,Surat,Gujarat,West,2.1.0
+Textile_House_149,Linen,2025-08-07,411.1,Mumbai,Maharashtra,West,2.1.0
+Textile_House_107,Polyester,2025-07-29,572.19,Puri,Odisha,East,2.1.0
+Textile_House_104,Polyester,2025-03-12,233.01,Cuttack,Odisha,East,2.1.0
+Textile_House_110,Linen,2025-05-10,142.48,Howrah,West Bengal,East,2.1.0
+Textile_House_131,Silk,2025-03-22,213.46,Pune,Maharashtra,West,2.1.0
+Textile_House_132,Synthetic,2025-03-09,651.4,Mumbai,Maharashtra,West,2.1.0
+Textile_House_143,Linen,2025-01-27,304.64,Cuttack,Odisha,East,2.1.0
+Textile_House_134,Synthetic,2025-02-01,715.66,Cuttack,Odisha,East,2.1.0
+Textile_House_122,Silk,2025-02-27,451.34,Pune,Maharashtra,West,2.1.0
+Textile_House_105,Synthetic,2025-05-28,915.57,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_139,Linen,2025-04-05,6.5,Mumbai,Maharashtra,West,2.1.0
+Textile_House_145,Cotton,2025-02-12,554.36,Howrah,West Bengal,East,2.1.0
+Textile_House_121,Linen,2025-10-06,753.21,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_120,Silk,2025-01-08,327.29,Surat,Gujarat,West,2.1.0
+Textile_House_117,Silk,2025-09-15,891.42,Howrah,West Bengal,East,2.1.0
+Textile_House_119,Polyester,2025-11-17,48.69,Pune,Maharashtra,West,2.1.0
+Textile_House_124,Synthetic,2025-08-31,634.32,Mumbai,Maharashtra,West,2.1.0
+Textile_House_126,Linen,2025-06-28,54.76,Durgapur,West Bengal,East,2.1.0
+Textile_House_115,Linen,2025-09-15,562.93,Howrah,West Bengal,East,2.1.0
+Textile_House_114,Silk,2025-05-19,628.39,Kolkata,West Bengal,East,2.1.0
+Textile_House_110,Synthetic,2025-08-27,879.9,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_109,Cotton,2025-11-28,641.99,Sambalpur,Odisha,East,2.1.0
+Textile_House_139,Linen,2025-05-13,180.15,Kolkata,West Bengal,East,2.1.0
+Textile_House_104,Synthetic,2025-03-07,343.85,Pune,Maharashtra,West,2.1.0
+Textile_House_138,Polyester,2025-01-05,656.54,Puri,Odisha,East,2.1.0
+Textile_House_113,Synthetic,2025-04-17,648.98,Surat,Gujarat,West,2.1.0
+Textile_House_115,Synthetic,2025-10-27,71.94,Howrah,West Bengal,East,2.1.0
+Textile_House_107,Linen,2025-01-26,345.15,Pune,Maharashtra,West,2.1.0
+Textile_House_128,Polyester,2025-07-05,550.8,Pune,Maharashtra,West,2.1.0
+Textile_House_109,Cotton,2025-08-02,363.02,Mumbai,Maharashtra,West,2.1.0
+Textile_House_115,Polyester,2025-07-21,862.31,Surat,Gujarat,West,2.1.0
+Textile_House_134,Synthetic,2025-02-28,783.65,Durgapur,West Bengal,East,2.1.0
+Textile_House_113,Silk,2025-06-05,329.67,Kolkata,West Bengal,East,2.1.0
+Textile_House_150,Silk,2025-07-08,88.76,Durgapur,West Bengal,East,2.1.0
+Textile_House_114,Cotton,2025-01-21,571.14,Mumbai,Maharashtra,West,2.1.0
+Textile_House_148,Polyester,2025-12-31,28.43,Pune,Maharashtra,West,2.1.0
+Textile_House_129,Polyester,2025-07-23,253.77,Durgapur,West Bengal,East,2.1.0
+Textile_House_144,Cotton,2025-12-16,711.55,Howrah,West Bengal,East,2.1.0
+Textile_House_149,Polyester,2025-09-18,929.1,Howrah,West Bengal,East,2.1.0
+Textile_House_106,Synthetic,2025-11-28,296.51,Surat,Gujarat,West,2.1.0
+Textile_House_105,Cotton,2025-06-09,403.35,Howrah,West Bengal,East,2.1.0
+Textile_House_140,Linen,2025-08-14,469.43,Cuttack,Odisha,East,2.1.0
+Textile_House_133,Polyester,2025-12-28,25.75,Cuttack,Odisha,East,2.1.0
+Textile_House_139,Linen,2025-08-23,767.93,Pune,Maharashtra,West,2.1.0
+Textile_House_106,Synthetic,2025-02-03,310.55,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_133,Cotton,2025-01-20,36.85,Pune,Maharashtra,West,2.1.0
+Textile_House_108,Cotton,2025-03-15,19.46,Mumbai,Maharashtra,West,2.1.0
+Textile_House_136,Silk,2025-05-23,779.98,Durgapur,West Bengal,East,2.1.0
+Textile_House_133,Cotton,2025-01-23,870.99,Puri,Odisha,East,2.1.0
+Textile_House_106,Polyester,2025-09-29,168.87,Howrah,West Bengal,East,2.1.0
+Textile_House_106,Cotton,2025-06-17,787.3,Kolkata,West Bengal,East,2.1.0
+Textile_House_132,Polyester,2025-10-01,108.28,Durgapur,West Bengal,East,2.1.0
+Textile_House_134,Cotton,2025-06-22,661.88,Howrah,West Bengal,East,2.1.0
+Textile_House_114,Linen,2025-02-04,845.97,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_108,Silk,2025-05-17,302.9,Cuttack,Odisha,East,2.1.0
+Textile_House_115,Linen,2025-01-21,403.71,Mumbai,Maharashtra,West,2.1.0
+Textile_House_150,Linen,2025-01-25,780.63,Howrah,West Bengal,East,2.1.0
+Textile_House_142,Polyester,2025-08-12,163.52,Puri,Odisha,East,2.1.0
+Textile_House_119,Polyester,2025-01-12,915.5,Puri,Odisha,East,2.1.0
+Textile_House_122,Synthetic,2025-09-25,262.31,Puri,Odisha,East,2.1.0
+Textile_House_149,Linen,2025-01-06,799.16,Durgapur,West Bengal,East,2.1.0
+Textile_House_128,Cotton,2025-02-22,782.29,Surat,Gujarat,West,2.1.0
+Textile_House_121,Synthetic,2025-12-01,275.8,Durgapur,West Bengal,East,2.1.0
+Textile_House_109,Cotton,2025-09-23,539.8,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_146,Synthetic,2025-03-26,740.79,Mumbai,Maharashtra,West,2.1.0
+Textile_House_138,Cotton,2025-09-07,99.44,Surat,Gujarat,West,2.1.0
+Textile_House_121,Polyester,2025-10-15,310.13,Kolkata,West Bengal,East,2.1.0
+Textile_House_115,Polyester,2025-08-01,321.01,Durgapur,West Bengal,East,2.1.0
+Textile_House_147,Cotton,2025-03-27,925.63,Cuttack,Odisha,East,2.1.0
+Textile_House_119,Silk,2025-01-26,714.83,Pune,Maharashtra,West,2.1.0
+Textile_House_128,Cotton,2025-10-28,929.9,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_124,Polyester,2025-04-14,151.07,Cuttack,Odisha,East,2.1.0
+Textile_House_134,Polyester,2025-12-28,937.53,Puri,Odisha,East,2.1.0
+Textile_House_117,Synthetic,2025-04-01,750.99,Puri,Odisha,East,2.1.0
+Textile_House_107,Polyester,2025-10-08,802.28,Howrah,West Bengal,East,2.1.0
+Textile_House_113,Silk,2025-03-10,544.7,Durgapur,West Bengal,East,2.1.0
+Textile_House_118,Silk,2025-06-30,210.15,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_112,Linen,2025-01-16,25.87,Pune,Maharashtra,West,2.1.0
+Textile_House_120,Silk,2025-06-12,164.18,Cuttack,Odisha,East,2.1.0
+Textile_House_108,Silk,2025-10-17,347.48,Kolkata,West Bengal,East,2.1.0
+Textile_House_148,Silk,2025-01-04,776.81,Pune,Maharashtra,West,2.1.0
+Textile_House_150,Linen,2025-08-01,736.99,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_120,Silk,2025-10-10,635.29,Pune,Maharashtra,West,2.1.0
+Textile_House_109,Polyester,2025-01-12,198.07,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_135,Silk,2025-07-02,383.13,Puri,Odisha,East,2.1.0
+Textile_House_150,Silk,2025-11-13,927.43,Surat,Gujarat,West,2.1.0
+Textile_House_150,Synthetic,2025-08-24,452.31,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_140,Silk,2025-10-29,458.14,Howrah,West Bengal,East,2.1.0
+Textile_House_137,Cotton,2025-10-13,707.95,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_115,Polyester,2025-08-08,696.09,Mumbai,Maharashtra,West,2.1.0
+Textile_House_147,Synthetic,2025-09-13,440.68,Sambalpur,Odisha,East,2.1.0
+Textile_House_137,Silk,2025-09-18,436.64,Mumbai,Maharashtra,West,2.1.0
+Textile_House_117,Silk,2025-11-08,937.28,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_103,Linen,2025-12-18,549.09,Pune,Maharashtra,West,2.1.0
+Textile_House_133,Synthetic,2025-12-03,150.44,Surat,Gujarat,West,2.1.0
+Textile_House_117,Linen,2025-04-05,40.01,Howrah,West Bengal,East,2.1.0
+Textile_House_105,Silk,2025-09-12,131.23,Puri,Odisha,East,2.1.0
+Textile_House_106,Cotton,2025-01-01,530.73,Sambalpur,Odisha,East,2.1.0
+Textile_House_102,Linen,2025-04-10,606.27,Durgapur,West Bengal,East,2.1.0
+Textile_House_112,Linen,2025-07-16,892.55,Kolkata,West Bengal,East,2.1.0
+Textile_House_106,Silk,2025-07-24,701.55,Howrah,West Bengal,East,2.1.0
+Textile_House_131,Silk,2025-04-05,834.67,Surat,Gujarat,West,2.1.0
+Textile_House_145,Silk,2025-04-25,595.87,Surat,Gujarat,West,2.1.0
+Textile_House_116,Polyester,2025-05-22,768.54,Surat,Gujarat,West,2.1.0
+Textile_House_141,Silk,2025-08-04,763.07,Cuttack,Odisha,East,2.1.0
+Textile_House_115,Cotton,2025-10-05,285.18,Pune,Maharashtra,West,2.1.0
+Textile_House_133,Cotton,2025-03-14,542.88,Pune,Maharashtra,West,2.1.0
+Textile_House_108,Linen,2025-04-09,803.04,Mumbai,Maharashtra,West,2.1.0
+Textile_House_136,Linen,2025-08-01,977.54,Kolkata,West Bengal,East,2.1.0
+Textile_House_127,Synthetic,2025-06-11,512.93,Cuttack,Odisha,East,2.1.0
+Textile_House_107,Linen,2025-11-03,37.83,Mumbai,Maharashtra,West,2.1.0
+Textile_House_127,Polyester,2025-02-13,816.87,Pune,Maharashtra,West,2.1.0
+Textile_House_150,Polyester,2025-01-04,337.1,Mumbai,Maharashtra,West,2.1.0
+Textile_House_116,Linen,2025-11-23,465.79,Howrah,West Bengal,East,2.1.0
+Textile_House_108,Silk,2025-01-11,389.85,Durgapur,West Bengal,East,2.1.0
+Textile_House_126,Synthetic,2025-12-14,215.82,Surat,Gujarat,West,2.1.0
+Textile_House_150,Silk,2025-08-27,230.24,Sambalpur,Odisha,East,2.1.0
+Textile_House_143,Polyester,2025-01-01,753.83,Kolkata,West Bengal,East,2.1.0
+Textile_House_141,Cotton,2025-02-17,646.21,Sambalpur,Odisha,East,2.1.0
+Textile_House_127,Silk,2025-12-09,598.42,Mumbai,Maharashtra,West,2.1.0
+Textile_House_115,Cotton,2025-02-27,190.08,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_147,Polyester,2025-12-11,493.12,Durgapur,West Bengal,East,2.1.0
+Textile_House_104,Linen,2025-08-16,248.02,Surat,Gujarat,West,2.1.0
+Textile_House_141,Linen,2025-05-19,783.62,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_107,Cotton,2025-03-07,761.22,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_102,Polyester,2025-10-12,263.54,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_141,Linen,2025-08-31,917.31,Sambalpur,Odisha,East,2.1.0
+Textile_House_149,Synthetic,2025-10-16,720.26,Pune,Maharashtra,West,2.1.0
+Textile_House_113,Cotton,2025-12-12,299.17,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_127,Linen,2025-12-20,823.52,Pune,Maharashtra,West,2.1.0
+Textile_House_122,Polyester,2025-01-31,183.75,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_107,Linen,2025-12-31,669.85,Puri,Odisha,East,2.1.0
+Textile_House_113,Polyester,2025-08-21,401.5,Mumbai,Maharashtra,West,2.1.0
+Textile_House_105,Polyester,2025-06-01,169.2,Mumbai,Maharashtra,West,2.1.0
+Textile_House_132,Polyester,2025-10-13,359.88,Mumbai,Maharashtra,West,2.1.0
+Textile_House_120,Linen,2025-09-23,679.56,Pune,Maharashtra,West,2.1.0
+Textile_House_136,Synthetic,2025-02-16,129.77,Mumbai,Maharashtra,West,2.1.0
+Textile_House_112,Cotton,2025-02-18,875.63,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_146,Linen,2025-01-22,502.48,Surat,Gujarat,West,2.1.0
+Textile_House_125,Silk,2025-09-18,159.35,Durgapur,West Bengal,East,2.1.0
+Textile_House_130,Linen,2025-06-15,403.75,Kolkata,West Bengal,East,2.1.0
+Textile_House_126,Cotton,2025-12-11,339.74,Howrah,West Bengal,East,2.1.0
+Textile_House_131,Silk,2025-11-03,624.96,Sambalpur,Odisha,East,2.1.0
+Textile_House_146,Cotton,2025-08-20,986.78,Mumbai,Maharashtra,West,2.1.0
+Textile_House_104,Cotton,2025-09-23,143.17,Sambalpur,Odisha,East,2.1.0
+Textile_House_111,Polyester,2025-08-06,346.05,Sambalpur,Odisha,East,2.1.0
+Textile_House_122,Silk,2025-05-30,752.18,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_149,Linen,2025-05-14,473.78,Sambalpur,Odisha,East,2.1.0
+Textile_House_103,Cotton,2025-08-07,524.82,Pune,Maharashtra,West,2.1.0
+Textile_House_147,Synthetic,2025-05-18,609.75,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_135,Linen,2025-05-18,496.05,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_150,Linen,2025-09-24,853.06,Pune,Maharashtra,West,2.1.0
+Textile_House_107,Polyester,2025-05-12,242.4,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_113,Silk,2025-03-13,937.82,Durgapur,West Bengal,East,2.1.0
+Textile_House_136,Linen,2025-02-24,445.69,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_129,Synthetic,2025-11-12,538.5,Puri,Odisha,East,2.1.0
+Textile_House_145,Synthetic,2025-01-25,248.64,Puri,Odisha,East,2.1.0
+Textile_House_105,Cotton,2025-11-17,538.9,Cuttack,Odisha,East,2.1.0
+Textile_House_126,Cotton,2025-11-14,562.93,Surat,Gujarat,West,2.1.0
+Textile_House_131,Synthetic,2025-09-07,535.64,Surat,Gujarat,West,2.1.0
+Textile_House_116,Cotton,2025-01-12,508.76,Mumbai,Maharashtra,West,2.1.0
+Textile_House_109,Synthetic,2025-11-27,197.04,Durgapur,West Bengal,East,2.1.0
+Textile_House_142,Polyester,2025-02-23,112.79,Mumbai,Maharashtra,West,2.1.0
+Textile_House_123,Linen,2025-09-23,738.08,Pune,Maharashtra,West,2.1.0
+Textile_House_134,Silk,2025-09-06,157.29,Mumbai,Maharashtra,West,2.1.0
+Textile_House_132,Linen,2025-11-20,255.53,Durgapur,West Bengal,East,2.1.0
+Textile_House_141,Polyester,2025-08-07,543.75,Pune,Maharashtra,West,2.1.0
+Textile_House_135,Polyester,2025-04-09,317.23,Durgapur,West Bengal,East,2.1.0
+Textile_House_130,Silk,2025-03-16,833.79,Surat,Gujarat,West,2.1.0
+Textile_House_128,Synthetic,2025-08-04,142.17,Cuttack,Odisha,East,2.1.0
+Textile_House_142,Linen,2025-03-27,960.43,Pune,Maharashtra,West,2.1.0
+Textile_House_144,Polyester,2025-08-18,936.57,Durgapur,West Bengal,East,2.1.0
+Textile_House_147,Cotton,2025-01-27,303.33,Surat,Gujarat,West,2.1.0
+Textile_House_116,Cotton,2025-10-21,943.14,Howrah,West Bengal,East,2.1.0
+Textile_House_130,Silk,2025-09-14,723.35,Mumbai,Maharashtra,West,2.1.0
+Textile_House_112,Linen,2025-10-12,193.49,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_112,Silk,2025-04-22,138.27,Durgapur,West Bengal,East,2.1.0
+Textile_House_134,Synthetic,2025-09-09,482.33,Sambalpur,Odisha,East,2.1.0
+Textile_House_103,Cotton,2025-07-03,114.77,Cuttack,Odisha,East,2.1.0
+Textile_House_119,Polyester,2025-11-17,163.89,Surat,Gujarat,West,2.1.0
+Textile_House_122,Silk,2025-03-01,127.06,Pune,Maharashtra,West,2.1.0
+Textile_House_137,Polyester,2025-03-20,318.66,Pune,Maharashtra,West,2.1.0
+Textile_House_116,Linen,2025-01-30,865.09,Surat,Gujarat,West,2.1.0
+Textile_House_117,Synthetic,2025-10-07,422.18,Cuttack,Odisha,East,2.1.0
+Textile_House_105,Synthetic,2025-06-18,979.38,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_127,Cotton,2025-08-05,990.43,Pune,Maharashtra,West,2.1.0
+Textile_House_145,Cotton,2025-01-04,245.98,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_119,Linen,2025-08-10,91.37,Puri,Odisha,East,2.1.0
+Textile_House_113,Polyester,2025-02-02,922.97,Durgapur,West Bengal,East,2.1.0
+Textile_House_142,Polyester,2025-03-02,340.82,Surat,Gujarat,West,2.1.0
+Textile_House_105,Synthetic,2025-03-21,940.26,Sambalpur,Odisha,East,2.1.0
+Textile_House_148,Linen,2025-09-06,853.37,Howrah,West Bengal,East,2.1.0
+Textile_House_124,Cotton,2025-11-10,992.14,Mumbai,Maharashtra,West,2.1.0
+Textile_House_111,Synthetic,2025-12-28,23.74,Durgapur,West Bengal,East,2.1.0
+Textile_House_146,Linen,2025-01-23,912.98,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_113,Synthetic,2025-09-22,852.26,Pune,Maharashtra,West,2.1.0
+Textile_House_141,Linen,2025-10-21,847.7,Cuttack,Odisha,East,2.1.0
+Textile_House_107,Cotton,2025-11-24,499.02,Sambalpur,Odisha,East,2.1.0
+Textile_House_144,Synthetic,2025-08-20,707.13,Mumbai,Maharashtra,West,2.1.0
+Textile_House_139,Silk,2025-06-06,292.34,Howrah,West Bengal,East,2.1.0
+Textile_House_142,Synthetic,2025-06-10,721.46,Cuttack,Odisha,East,2.1.0
+Textile_House_131,Polyester,2025-10-16,489.35,Cuttack,Odisha,East,2.1.0
+Textile_House_143,Synthetic,2025-12-12,912.77,Mumbai,Maharashtra,West,2.1.0
+Textile_House_117,Synthetic,2025-05-05,787.85,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_127,Cotton,2025-09-25,347.3,Cuttack,Odisha,East,2.1.0
+Textile_House_124,Synthetic,2025-02-22,65.39,Mumbai,Maharashtra,West,2.1.0
+Textile_House_148,Polyester,2025-04-22,600.91,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_143,Cotton,2025-08-18,954.57,Howrah,West Bengal,East,2.1.0
+Textile_House_120,Synthetic,2025-09-08,78.72,Surat,Gujarat,West,2.1.0
+Textile_House_127,Synthetic,2025-01-29,819.17,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_124,Silk,2025-06-11,812.66,Mumbai,Maharashtra,West,2.1.0
+Textile_House_126,Linen,2025-03-28,487.23,Howrah,West Bengal,East,2.1.0
+Textile_House_113,Synthetic,2025-01-30,615.06,Howrah,West Bengal,East,2.1.0
+Textile_House_148,Synthetic,2025-10-20,28.86,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_124,Cotton,2025-12-22,446.03,Puri,Odisha,East,2.1.0
+Textile_House_137,Cotton,2025-05-31,654.01,Pune,Maharashtra,West,2.1.0
+Textile_House_125,Polyester,2025-07-06,690.58,Kolkata,West Bengal,East,2.1.0
+Textile_House_126,Synthetic,2025-05-13,552.94,Cuttack,Odisha,East,2.1.0
+Textile_House_109,Cotton,2025-11-05,871.49,Surat,Gujarat,West,2.1.0
+Textile_House_148,Polyester,2025-11-12,715.44,Surat,Gujarat,West,2.1.0
+Textile_House_133,Linen,2025-01-17,557.97,Pune,Maharashtra,West,2.1.0
+Textile_House_103,Linen,2025-06-21,610.61,Mumbai,Maharashtra,West,2.1.0
+Textile_House_130,Polyester,2025-10-10,956.45,Pune,Maharashtra,West,2.1.0
+Textile_House_125,Polyester,2025-12-22,534.43,Howrah,West Bengal,East,2.1.0
+Textile_House_141,Synthetic,2025-01-15,619.2,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_138,Cotton,2025-04-18,911.94,Puri,Odisha,East,2.1.0
+Textile_House_103,Silk,2025-12-05,599.63,Surat,Gujarat,West,2.1.0
+Textile_House_124,Synthetic,2025-02-24,402.9,Puri,Odisha,East,2.1.0
+Textile_House_113,Linen,2025-09-29,215.42,Surat,Gujarat,West,2.1.0
+Textile_House_129,Silk,2025-11-01,126.98,Mumbai,Maharashtra,West,2.1.0
+Textile_House_104,Silk,2025-01-04,711.06,Durgapur,West Bengal,East,2.1.0
+Textile_House_113,Silk,2025-11-16,575.6,Howrah,West Bengal,East,2.1.0
+Textile_House_126,Cotton,2025-04-18,870.5,Sambalpur,Odisha,East,2.1.0
+Textile_House_104,Linen,2025-05-25,217.27,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_129,Silk,2025-01-23,390.47,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_145,Polyester,2025-12-09,427.82,Pune,Maharashtra,West,2.1.0
+Textile_House_112,Silk,2025-03-21,82.22,Pune,Maharashtra,West,2.1.0
+Textile_House_116,Synthetic,2025-07-08,980.54,Sambalpur,Odisha,East,2.1.0
+Textile_House_148,Cotton,2025-12-14,768.39,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_137,Polyester,2025-04-18,176.5,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_144,Silk,2025-09-16,162.99,Howrah,West Bengal,East,2.1.0
+Textile_House_132,Synthetic,2025-12-30,692.28,Kolkata,West Bengal,East,2.1.0
+Textile_House_143,Cotton,2025-04-28,745.11,Cuttack,Odisha,East,2.1.0
+Textile_House_147,Silk,2025-12-27,362.61,Surat,Gujarat,West,2.1.0
+Textile_House_143,Synthetic,2025-08-07,725.32,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_107,Cotton,2025-06-19,665.62,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_140,Cotton,2025-11-18,123.36,Pune,Maharashtra,West,2.1.0
+Textile_House_123,Silk,2025-03-24,711.88,Mumbai,Maharashtra,West,2.1.0
+Textile_House_115,Cotton,2025-07-12,158.05,Mumbai,Maharashtra,West,2.1.0
+Textile_House_136,Silk,2025-07-03,900.81,Surat,Gujarat,West,2.1.0
+Textile_House_138,Silk,2025-01-16,840.01,Sambalpur,Odisha,East,2.1.0
+Textile_House_146,Silk,2025-05-06,816.65,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_111,Polyester,2025-07-30,528.4,Howrah,West Bengal,East,2.1.0
+Textile_House_132,Synthetic,2025-12-17,652.54,Sambalpur,Odisha,East,2.1.0
+Textile_House_150,Cotton,2025-10-09,302.58,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_119,Cotton,2025-02-01,922.33,Pune,Maharashtra,West,2.1.0
+Textile_House_147,Silk,2025-12-02,56.98,Surat,Gujarat,West,2.1.0
+Textile_House_139,Polyester,2025-11-26,549.82,Puri,Odisha,East,2.1.0
+Textile_House_139,Polyester,2025-11-26,925.11,Surat,Gujarat,West,2.1.0
+Textile_House_147,Polyester,2025-12-12,611.53,Cuttack,Odisha,East,2.1.0
+Textile_House_108,Linen,2025-11-02,704.21,Pune,Maharashtra,West,2.1.0
+Textile_House_110,Polyester,2025-03-26,639.09,Mumbai,Maharashtra,West,2.1.0
+Textile_House_142,Linen,2025-05-25,673.42,Mumbai,Maharashtra,West,2.1.0
+Textile_House_126,Synthetic,2025-05-21,433.16,Pune,Maharashtra,West,2.1.0
+Textile_House_131,Linen,2025-06-19,139.55,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_116,Synthetic,2025-11-29,312.91,Mumbai,Maharashtra,West,2.1.0
+Textile_House_135,Polyester,2025-05-20,152.52,Surat,Gujarat,West,2.1.0
+Textile_House_131,Linen,2025-07-10,140.3,Puri,Odisha,East,2.1.0
+Textile_House_121,Synthetic,2025-02-09,523.06,Sambalpur,Odisha,East,2.1.0
+Textile_House_123,Linen,2025-01-28,945.67,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_125,Linen,2025-11-09,345.36,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_117,Linen,2025-08-19,695.7,Pune,Maharashtra,West,2.1.0
+Textile_House_136,Polyester,2025-11-17,917.27,Puri,Odisha,East,2.1.0
+Textile_House_117,Synthetic,2025-07-24,674.47,Surat,Gujarat,West,2.1.0
+Textile_House_149,Polyester,2025-08-14,546.65,Kolkata,West Bengal,East,2.1.0
+Textile_House_113,Polyester,2025-09-28,307.45,Mumbai,Maharashtra,West,2.1.0
+Textile_House_133,Cotton,2025-08-18,341.56,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_147,Cotton,2025-04-10,874.73,Surat,Gujarat,West,2.1.0
+Textile_House_122,Synthetic,2025-12-29,892.07,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_122,Polyester,2025-09-04,150.32,Mumbai,Maharashtra,West,2.1.0
+Textile_House_134,Polyester,2025-03-29,946.98,Surat,Gujarat,West,2.1.0
+Textile_House_141,Linen,2025-06-10,927.96,Mumbai,Maharashtra,West,2.1.0
+Textile_House_148,Silk,2025-08-14,19.21,Sambalpur,Odisha,East,2.1.0
+Textile_House_110,Cotton,2025-11-22,381.06,Howrah,West Bengal,East,2.1.0
+Textile_House_107,Linen,2025-10-25,406.22,Pune,Maharashtra,West,2.1.0
+Textile_House_145,Polyester,2025-05-12,107.91,Durgapur,West Bengal,East,2.1.0
+Textile_House_139,Linen,2025-03-22,369.01,Pune,Maharashtra,West,2.1.0
+Textile_House_118,Cotton,2025-09-23,446.56,Cuttack,Odisha,East,2.1.0
+Textile_House_104,Polyester,2025-10-18,30.87,Durgapur,West Bengal,East,2.1.0
+Textile_House_120,Linen,2025-01-03,89.4,Puri,Odisha,East,2.1.0
+Textile_House_106,Synthetic,2025-09-09,122.44,Mumbai,Maharashtra,West,2.1.0
+Textile_House_146,Cotton,2025-09-05,929.21,Surat,Gujarat,West,2.1.0
+Textile_House_150,Synthetic,2025-10-26,204.51,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_116,Synthetic,2025-06-12,323.08,Durgapur,West Bengal,East,2.1.0
+Textile_House_124,Polyester,2025-11-10,838.73,Mumbai,Maharashtra,West,2.1.0
+Textile_House_123,Silk,2025-03-25,71.93,Mumbai,Maharashtra,West,2.1.0
+Textile_House_150,Linen,2025-03-28,563.07,Surat,Gujarat,West,2.1.0
+Textile_House_137,Polyester,2025-11-17,281.92,Durgapur,West Bengal,East,2.1.0
+Textile_House_147,Silk,2025-07-26,999.78,Howrah,West Bengal,East,2.1.0
+Textile_House_105,Silk,2025-01-12,281.07,Surat,Gujarat,West,2.1.0
+Textile_House_116,Polyester,2025-07-20,109.56,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_114,Polyester,2025-10-11,470.5,Cuttack,Odisha,East,2.1.0
+Textile_House_101,Silk,2025-01-20,84.34,Durgapur,West Bengal,East,2.1.0
+Textile_House_126,Synthetic,2025-11-30,828.48,Cuttack,Odisha,East,2.1.0
+Textile_House_116,Polyester,2025-04-06,168.23,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_101,Synthetic,2025-09-28,171.38,Puri,Odisha,East,2.1.0
+Textile_House_119,Synthetic,2025-04-14,159.2,Howrah,West Bengal,East,2.1.0
+Textile_House_146,Silk,2025-03-15,647.19,Howrah,West Bengal,East,2.1.0
+Textile_House_105,Polyester,2025-09-10,446.87,Kolkata,West Bengal,East,2.1.0
+Textile_House_148,Synthetic,2025-09-06,780.54,Durgapur,West Bengal,East,2.1.0
+Textile_House_137,Polyester,2025-08-04,980.61,Puri,Odisha,East,2.1.0
+Textile_House_143,Polyester,2025-07-12,305.16,Kolkata,West Bengal,East,2.1.0
+Textile_House_146,Cotton,2025-09-29,789.79,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_141,Silk,2025-01-16,528.06,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_108,Linen,2025-11-30,432.07,Cuttack,Odisha,East,2.1.0
+Textile_House_129,Cotton,2025-10-02,84.85,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_103,Cotton,2025-01-11,419.68,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_140,Polyester,2025-02-17,300.6,Mumbai,Maharashtra,West,2.1.0
+Textile_House_137,Synthetic,2025-08-29,118.56,Mumbai,Maharashtra,West,2.1.0
+Textile_House_106,Silk,2025-12-31,535.95,Cuttack,Odisha,East,2.1.0
+Textile_House_113,Cotton,2025-06-26,406.94,Mumbai,Maharashtra,West,2.1.0
+Textile_House_124,Silk,2025-08-17,447.96,Pune,Maharashtra,West,2.1.0
+Textile_House_104,Silk,2025-01-15,508.38,Mumbai,Maharashtra,West,2.1.0
+Textile_House_139,Polyester,2025-01-10,760.64,Pune,Maharashtra,West,2.1.0
+Textile_House_106,Linen,2025-03-13,466.76,Cuttack,Odisha,East,2.1.0
+Textile_House_133,Linen,2025-05-01,363.54,Mumbai,Maharashtra,West,2.1.0
+Textile_House_120,Synthetic,2025-07-31,306.18,Surat,Gujarat,West,2.1.0
+Textile_House_140,Synthetic,2025-11-08,497.59,Durgapur,West Bengal,East,2.1.0
+Textile_House_138,Cotton,2025-06-07,579.96,Cuttack,Odisha,East,2.1.0
+Textile_House_106,Cotton,2025-04-20,989.26,Cuttack,Odisha,East,2.1.0
+Textile_House_138,Linen,2025-10-02,27.42,Mumbai,Maharashtra,West,2.1.0
+Textile_House_108,Cotton,2025-05-07,287.25,Mumbai,Maharashtra,West,2.1.0
+Textile_House_133,Silk,2025-01-31,553.88,Surat,Gujarat,West,2.1.0
+Textile_House_116,Synthetic,2025-10-02,326.53,Howrah,West Bengal,East,2.1.0
+Textile_House_107,Linen,2025-10-15,993.81,Puri,Odisha,East,2.1.0
+Textile_House_118,Silk,2025-05-23,80.83,Howrah,West Bengal,East,2.1.0
+Textile_House_107,Silk,2025-01-29,212.15,Cuttack,Odisha,East,2.1.0
+Textile_House_148,Polyester,2025-09-14,867.47,Cuttack,Odisha,East,2.1.0
+Textile_House_110,Synthetic,2025-03-15,865.94,Mumbai,Maharashtra,West,2.1.0
+Textile_House_130,Polyester,2025-10-24,313.38,Pune,Maharashtra,West,2.1.0
+Textile_House_136,Cotton,2025-01-16,749.19,Durgapur,West Bengal,East,2.1.0
+Textile_House_146,Linen,2025-11-03,523.8,Cuttack,Odisha,East,2.1.0
+Textile_House_108,Cotton,2025-06-02,459.63,Mumbai,Maharashtra,West,2.1.0
+Textile_House_141,Synthetic,2025-12-28,262.25,Pune,Maharashtra,West,2.1.0
+Textile_House_123,Polyester,2025-03-29,939.32,Howrah,West Bengal,East,2.1.0
+Textile_House_101,Synthetic,2025-06-11,315.15,Kolkata,West Bengal,East,2.1.0
+Textile_House_113,Linen,2025-04-12,699.06,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_149,Synthetic,2025-04-27,730.7,Sambalpur,Odisha,East,2.1.0
+Textile_House_146,Polyester,2025-04-25,152.53,Howrah,West Bengal,East,2.1.0
+Textile_House_145,Linen,2025-07-29,248.99,Pune,Maharashtra,West,2.1.0
+Textile_House_108,Silk,2025-12-06,22.37,Sambalpur,Odisha,East,2.1.0
+Textile_House_142,Silk,2025-02-14,584.59,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_139,Linen,2025-01-30,465.53,Mumbai,Maharashtra,West,2.1.0
+Textile_House_126,Linen,2025-02-15,42.72,Howrah,West Bengal,East,2.1.0
+Textile_House_116,Polyester,2025-10-31,315.44,Puri,Odisha,East,2.1.0
+Textile_House_104,Silk,2025-07-12,901.15,Mumbai,Maharashtra,West,2.1.0
+Textile_House_136,Linen,2025-02-20,476.55,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_118,Polyester,2025-04-19,894.04,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_135,Synthetic,2025-11-22,316.45,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_116,Synthetic,2025-01-12,78.32,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_123,Synthetic,2025-12-17,592.76,Pune,Maharashtra,West,2.1.0
+Textile_House_128,Linen,2025-11-13,932.17,Puri,Odisha,East,2.1.0
+Textile_House_111,Linen,2025-10-29,499.14,Cuttack,Odisha,East,2.1.0
+Textile_House_124,Linen,2025-01-16,904.02,Surat,Gujarat,West,2.1.0
+Textile_House_117,Synthetic,2025-03-10,140.34,Pune,Maharashtra,West,2.1.0
+Textile_House_132,Polyester,2025-04-08,536.95,Surat,Gujarat,West,2.1.0
+Textile_House_109,Linen,2025-07-14,980.99,Howrah,West Bengal,East,2.1.0
+Textile_House_139,Synthetic,2025-04-25,920.22,Sambalpur,Odisha,East,2.1.0
+Textile_House_109,Silk,2025-01-11,605.37,Durgapur,West Bengal,East,2.1.0
+Textile_House_110,Silk,2025-02-17,705.05,Surat,Gujarat,West,2.1.0
+Textile_House_148,Polyester,2025-11-16,254.47,Durgapur,West Bengal,East,2.1.0
+Textile_House_144,Synthetic,2025-01-19,270.94,Cuttack,Odisha,East,2.1.0
+Textile_House_121,Polyester,2025-04-21,917.85,Durgapur,West Bengal,East,2.1.0
+Textile_House_129,Polyester,2025-11-04,190.7,Mumbai,Maharashtra,West,2.1.0
+Textile_House_138,Silk,2025-07-28,286.83,Mumbai,Maharashtra,West,2.1.0
+Textile_House_139,Cotton,2025-06-25,295.02,Surat,Gujarat,West,2.1.0
+Textile_House_130,Linen,2025-03-04,692.6,Mumbai,Maharashtra,West,2.1.0
+Textile_House_149,Polyester,2025-05-31,726.71,Cuttack,Odisha,East,2.1.0
+Textile_House_129,Synthetic,2025-04-24,859.37,Kolkata,West Bengal,East,2.1.0
+Textile_House_113,Cotton,2025-09-22,197.77,Durgapur,West Bengal,East,2.1.0
+Textile_House_114,Linen,2025-08-05,806.82,Pune,Maharashtra,West,2.1.0
+Textile_House_129,Polyester,2025-03-08,625.96,Mumbai,Maharashtra,West,2.1.0
+Textile_House_111,Synthetic,2025-01-22,648.42,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_145,Cotton,2025-04-05,867.44,Durgapur,West Bengal,East,2.1.0
+Textile_House_117,Polyester,2025-10-31,336.75,Durgapur,West Bengal,East,2.1.0
+Textile_House_134,Silk,2025-04-14,26.39,Mumbai,Maharashtra,West,2.1.0
+Textile_House_139,Synthetic,2025-07-11,814.05,Cuttack,Odisha,East,2.1.0
+Textile_House_112,Synthetic,2025-04-12,994.47,Surat,Gujarat,West,2.1.0
+Textile_House_131,Linen,2025-06-11,581.06,Kolkata,West Bengal,East,2.1.0
+Textile_House_144,Cotton,2025-03-12,128.61,Cuttack,Odisha,East,2.1.0
+Textile_House_108,Cotton,2025-02-28,881.77,Surat,Gujarat,West,2.1.0
+Textile_House_150,Linen,2025-01-16,885.74,Sambalpur,Odisha,East,2.1.0
+Textile_House_134,Polyester,2025-09-29,667.9,Puri,Odisha,East,2.1.0
+Textile_House_134,Synthetic,2025-10-28,81.3,Pune,Maharashtra,West,2.1.0
+Textile_House_107,Linen,2025-09-17,309.19,Kolkata,West Bengal,East,2.1.0
+Textile_House_142,Cotton,2025-05-28,449.31,Pune,Maharashtra,West,2.1.0
+Textile_House_119,Synthetic,2025-03-24,939.27,Sambalpur,Odisha,East,2.1.0
+Textile_House_128,Linen,2025-11-19,572.8,Pune,Maharashtra,West,2.1.0
+Textile_House_146,Silk,2025-05-31,746.16,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_141,Synthetic,2025-07-12,769.72,Surat,Gujarat,West,2.1.0
+Textile_House_125,Silk,2025-02-20,463.69,Pune,Maharashtra,West,2.1.0
+Textile_House_149,Linen,2025-02-08,280.78,Pune,Maharashtra,West,2.1.0
+Textile_House_149,Synthetic,2025-01-13,33.13,Sambalpur,Odisha,East,2.1.0
+Textile_House_112,Polyester,2025-09-15,386.87,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_120,Synthetic,2025-02-09,506.93,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_147,Silk,2025-08-31,560.6,Pune,Maharashtra,West,2.1.0
+Textile_House_146,Linen,2025-12-28,462.13,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_108,Linen,2025-07-28,599.9,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_102,Polyester,2025-05-25,255.73,Surat,Gujarat,West,2.1.0
+Textile_House_137,Silk,2025-03-28,452.38,Pune,Maharashtra,West,2.1.0
+Textile_House_118,Cotton,2025-10-20,581.68,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_143,Linen,2025-10-24,29.58,Cuttack,Odisha,East,2.1.0
+Textile_House_145,Silk,2025-03-11,969.79,Durgapur,West Bengal,East,2.1.0
+Textile_House_130,Linen,2025-01-02,102.33,Surat,Gujarat,West,2.1.0
+Textile_House_144,Synthetic,2025-08-28,264.94,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_121,Cotton,2025-04-18,873.39,Kolkata,West Bengal,East,2.1.0
+Textile_House_146,Linen,2025-05-27,957.49,Kolkata,West Bengal,East,2.1.0
+Textile_House_104,Synthetic,2025-01-19,556.24,Cuttack,Odisha,East,2.1.0
+Textile_House_120,Polyester,2025-01-03,703.02,Pune,Maharashtra,West,2.1.0
+Textile_House_122,Silk,2025-01-26,774.63,Durgapur,West Bengal,East,2.1.0
+Textile_House_132,Synthetic,2025-03-18,329.2,Howrah,West Bengal,East,2.1.0
+Textile_House_104,Polyester,2025-09-03,485.93,Pune,Maharashtra,West,2.1.0
+Textile_House_112,Silk,2025-03-04,893.5,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_120,Synthetic,2025-10-13,333.2,Mumbai,Maharashtra,West,2.1.0
+Textile_House_109,Cotton,2025-01-12,882.55,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_141,Polyester,2025-01-17,860.24,Durgapur,West Bengal,East,2.1.0
+Textile_House_106,Synthetic,2025-05-25,75.33,Howrah,West Bengal,East,2.1.0
+Textile_House_148,Linen,2025-09-24,357.32,Surat,Gujarat,West,2.1.0
+Textile_House_139,Linen,2025-12-01,461.56,Mumbai,Maharashtra,West,2.1.0
+Textile_House_108,Synthetic,2025-11-10,598.59,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_132,Synthetic,2025-01-15,391.38,Sambalpur,Odisha,East,2.1.0
+Textile_House_112,Linen,2025-05-27,990.49,Pune,Maharashtra,West,2.1.0
+Textile_House_134,Cotton,2025-02-16,965.14,Durgapur,West Bengal,East,2.1.0
+Textile_House_128,Linen,2025-12-15,617.15,Pune,Maharashtra,West,2.1.0
+Textile_House_126,Silk,2025-12-21,865.19,Howrah,West Bengal,East,2.1.0
+Textile_House_113,Silk,2025-03-02,322.85,Surat,Gujarat,West,2.1.0
+Textile_House_133,Cotton,2025-03-22,323.14,Pune,Maharashtra,West,2.1.0
+Textile_House_102,Synthetic,2025-12-02,136.89,Surat,Gujarat,West,2.1.0
+Textile_House_110,Cotton,2025-12-10,409.24,Pune,Maharashtra,West,2.1.0
+Textile_House_127,Silk,2025-12-05,586.42,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_147,Cotton,2025-01-30,457.66,Pune,Maharashtra,West,2.1.0
+Textile_House_120,Synthetic,2025-07-27,72.53,Surat,Gujarat,West,2.1.0
+Textile_House_122,Silk,2025-10-07,502.5,Puri,Odisha,East,2.1.0
+Textile_House_131,Linen,2025-05-14,919.98,Cuttack,Odisha,East,2.1.0
+Textile_House_117,Synthetic,2025-10-10,706.26,Pune,Maharashtra,West,2.1.0
+Textile_House_146,Synthetic,2025-03-23,899.57,Sambalpur,Odisha,East,2.1.0
+Textile_House_131,Cotton,2025-08-17,117.16,Pune,Maharashtra,West,2.1.0
+Textile_House_137,Linen,2025-07-02,255.68,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_111,Polyester,2025-07-30,600.66,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_113,Silk,2025-09-03,56.97,Kolkata,West Bengal,East,2.1.0
+Textile_House_121,Polyester,2025-09-09,412.7,Surat,Gujarat,West,2.1.0
+Textile_House_105,Cotton,2025-08-25,267.26,Durgapur,West Bengal,East,2.1.0
+Textile_House_146,Linen,2025-08-31,909.25,Mumbai,Maharashtra,West,2.1.0
+Textile_House_115,Synthetic,2025-07-06,309.73,Surat,Gujarat,West,2.1.0
+Textile_House_123,Silk,2025-03-27,765.03,Durgapur,West Bengal,East,2.1.0
+Textile_House_130,Polyester,2025-11-22,645.29,Surat,Gujarat,West,2.1.0
+Textile_House_112,Silk,2025-07-26,234.89,Puri,Odisha,East,2.1.0
+Textile_House_126,Linen,2025-04-15,942.24,Surat,Gujarat,West,2.1.0
+Textile_House_121,Cotton,2025-06-26,774.96,Surat,Gujarat,West,2.1.0
+Textile_House_140,Synthetic,2025-09-26,144.74,Pune,Maharashtra,West,2.1.0
+Textile_House_134,Linen,2025-12-14,63.65,Pune,Maharashtra,West,2.1.0
+Textile_House_144,Synthetic,2025-08-17,869.71,Pune,Maharashtra,West,2.1.0
+Textile_House_109,Silk,2025-02-02,803.84,Kolkata,West Bengal,East,2.1.0
+Textile_House_149,Polyester,2025-10-24,412.7,Puri,Odisha,East,2.1.0
+Textile_House_124,Cotton,2025-04-29,562.48,Puri,Odisha,East,2.1.0
+Textile_House_107,Cotton,2025-04-07,787.6,Surat,Gujarat,West,2.1.0
+Textile_House_103,Synthetic,2025-05-27,369.39,Mumbai,Maharashtra,West,2.1.0
+Textile_House_139,Cotton,2025-08-17,464.82,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_122,Cotton,2025-10-05,516.71,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_145,Cotton,2025-02-03,782.88,Durgapur,West Bengal,East,2.1.0
+Textile_House_125,Linen,2025-06-04,118.1,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_126,Cotton,2025-02-09,79.1,Mumbai,Maharashtra,West,2.1.0
+Textile_House_131,Polyester,2025-05-14,749.33,Durgapur,West Bengal,East,2.1.0
+Textile_House_140,Linen,2025-02-09,876.32,Durgapur,West Bengal,East,2.1.0
+Textile_House_122,Linen,2025-05-17,196.88,Mumbai,Maharashtra,West,2.1.0
+Textile_House_118,Polyester,2025-02-24,66.15,Cuttack,Odisha,East,2.1.0
+Textile_House_142,Polyester,2025-11-07,633.68,Kolkata,West Bengal,East,2.1.0
+Textile_House_138,Synthetic,2025-01-13,784.24,Surat,Gujarat,West,2.1.0
+Textile_House_139,Cotton,2025-09-29,161.77,Surat,Gujarat,West,2.1.0
+Textile_House_116,Polyester,2025-03-04,808.68,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_142,Synthetic,2025-03-31,360.15,Mumbai,Maharashtra,West,2.1.0
+Textile_House_144,Synthetic,2025-03-06,196.71,Puri,Odisha,East,2.1.0
+Textile_House_129,Synthetic,2025-12-15,748.54,Puri,Odisha,East,2.1.0
+Textile_House_146,Cotton,2025-04-30,14.71,Cuttack,Odisha,East,2.1.0
+Textile_House_102,Silk,2025-11-12,178.18,Pune,Maharashtra,West,2.1.0
+Textile_House_111,Linen,2025-02-27,361.81,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_127,Cotton,2025-03-24,46.27,Surat,Gujarat,West,2.1.0
+Textile_House_145,Cotton,2025-07-28,526.78,Surat,Gujarat,West,2.1.0
+Textile_House_145,Silk,2025-12-31,248.7,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_146,Silk,2025-04-18,298.9,Howrah,West Bengal,East,2.1.0
+Textile_House_144,Polyester,2025-09-19,550.86,Surat,Gujarat,West,2.1.0
+Textile_House_113,Polyester,2025-02-19,333.55,Surat,Gujarat,West,2.1.0
+Textile_House_121,Silk,2025-03-14,156.69,Mumbai,Maharashtra,West,2.1.0
+Textile_House_111,Polyester,2025-11-17,258.46,Kolkata,West Bengal,East,2.1.0
+Textile_House_123,Polyester,2025-03-18,876.09,Surat,Gujarat,West,2.1.0
+Textile_House_134,Synthetic,2025-10-01,559.86,Cuttack,Odisha,East,2.1.0
+Textile_House_149,Linen,2025-09-11,824.05,Kolkata,West Bengal,East,2.1.0
+Textile_House_130,Linen,2025-10-31,205.01,Sambalpur,Odisha,East,2.1.0
+Textile_House_108,Synthetic,2025-04-21,340.84,Puri,Odisha,East,2.1.0
+Textile_House_126,Cotton,2025-02-24,219.58,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_102,Silk,2025-09-21,550.1,Kolkata,West Bengal,East,2.1.0
+Textile_House_113,Cotton,2025-10-28,876.82,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_127,Linen,2025-12-28,379.09,Mumbai,Maharashtra,West,2.1.0
+Textile_House_111,Polyester,2025-09-19,9.64,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_106,Silk,2025-02-08,570.07,Pune,Maharashtra,West,2.1.0
+Textile_House_110,Silk,2025-08-31,152.75,Howrah,West Bengal,East,2.1.0
+Textile_House_111,Synthetic,2025-09-22,456.54,Pune,Maharashtra,West,2.1.0
+Textile_House_106,Cotton,2025-10-26,395.0,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_116,Cotton,2025-08-26,156.83,Pune,Maharashtra,West,2.1.0
+Textile_House_149,Linen,2025-09-19,545.08,Kolkata,West Bengal,East,2.1.0
+Textile_House_129,Linen,2025-07-18,405.57,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_105,Synthetic,2025-05-04,911.28,Surat,Gujarat,West,2.1.0
+Textile_House_133,Polyester,2025-08-11,931.38,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_123,Silk,2025-08-07,245.71,Surat,Gujarat,West,2.1.0
+Textile_House_134,Linen,2025-11-11,134.23,Pune,Maharashtra,West,2.1.0
+Textile_House_150,Silk,2025-02-01,994.65,Mumbai,Maharashtra,West,2.1.0
+Textile_House_104,Synthetic,2025-02-20,430.97,Cuttack,Odisha,East,2.1.0
+Textile_House_107,Linen,2025-09-04,432.57,Surat,Gujarat,West,2.1.0
+Textile_House_112,Polyester,2025-11-08,629.52,Kolkata,West Bengal,East,2.1.0
+Textile_House_127,Linen,2025-03-15,167.79,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_139,Linen,2025-02-17,784.62,Pune,Maharashtra,West,2.1.0
+Textile_House_129,Polyester,2025-01-05,609.23,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_136,Polyester,2025-12-19,924.5,Puri,Odisha,East,2.1.0
+Textile_House_106,Synthetic,2025-02-16,800.77,Sambalpur,Odisha,East,2.1.0
+Textile_House_109,Synthetic,2025-12-24,515.01,Howrah,West Bengal,East,2.1.0
+Textile_House_128,Polyester,2025-10-07,211.75,Pune,Maharashtra,West,2.1.0
+Textile_House_130,Synthetic,2025-10-10,552.5,Kolkata,West Bengal,East,2.1.0
+Textile_House_117,Cotton,2025-11-14,857.99,Pune,Maharashtra,West,2.1.0
+Textile_House_104,Polyester,2025-07-10,101.58,Durgapur,West Bengal,East,2.1.0
+Textile_House_102,Polyester,2025-12-18,912.53,Durgapur,West Bengal,East,2.1.0
+Textile_House_135,Polyester,2025-09-11,98.72,Mumbai,Maharashtra,West,2.1.0
+Textile_House_117,Silk,2025-07-14,76.9,Kolkata,West Bengal,East,2.1.0
+Textile_House_104,Cotton,2025-09-30,364.94,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_109,Linen,2025-12-26,72.48,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_139,Silk,2025-08-15,131.25,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_148,Cotton,2025-08-24,914.84,Kolkata,West Bengal,East,2.1.0
+Textile_House_125,Linen,2025-05-14,759.83,Durgapur,West Bengal,East,2.1.0
+Textile_House_146,Polyester,2025-10-02,181.06,Sambalpur,Odisha,East,2.1.0
+Textile_House_118,Cotton,2025-04-27,214.36,Mumbai,Maharashtra,West,2.1.0
+Textile_House_141,Linen,2025-10-18,265.91,Sambalpur,Odisha,East,2.1.0
+Textile_House_140,Silk,2025-04-20,563.81,Mumbai,Maharashtra,West,2.1.0
+Textile_House_132,Synthetic,2025-11-28,279.46,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_133,Synthetic,2025-10-13,947.23,Mumbai,Maharashtra,West,2.1.0
+Textile_House_123,Synthetic,2025-07-12,495.63,Cuttack,Odisha,East,2.1.0
+Textile_House_134,Cotton,2025-06-13,819.83,Pune,Maharashtra,West,2.1.0
+Textile_House_148,Linen,2025-08-09,796.28,Cuttack,Odisha,East,2.1.0
+Textile_House_102,Polyester,2025-11-16,151.36,Mumbai,Maharashtra,West,2.1.0
+Textile_House_136,Silk,2025-05-26,932.91,Pune,Maharashtra,West,2.1.0
+Textile_House_143,Synthetic,2025-06-14,607.76,Cuttack,Odisha,East,2.1.0
+Textile_House_122,Synthetic,2025-02-26,419.99,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_147,Cotton,2025-03-23,818.4,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_133,Silk,2025-04-18,741.62,Cuttack,Odisha,East,2.1.0
+Textile_House_121,Linen,2025-05-09,782.56,Durgapur,West Bengal,East,2.1.0
+Textile_House_109,Cotton,2025-11-18,429.76,Surat,Gujarat,West,2.1.0
+Textile_House_146,Silk,2025-12-05,95.39,Pune,Maharashtra,West,2.1.0
+Textile_House_105,Polyester,2025-11-25,487.45,Surat,Gujarat,West,2.1.0
+Textile_House_122,Linen,2025-10-17,710.89,Pune,Maharashtra,West,2.1.0
+Textile_House_110,Silk,2025-12-10,739.82,Pune,Maharashtra,West,2.1.0
+Textile_House_115,Polyester,2025-05-07,205.31,Kolkata,West Bengal,East,2.1.0
+Textile_House_147,Synthetic,2025-06-17,354.95,Sambalpur,Odisha,East,2.1.0
+Textile_House_117,Polyester,2025-09-26,279.33,Surat,Gujarat,West,2.1.0
+Textile_House_147,Linen,2025-02-08,173.46,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_133,Silk,2025-08-08,808.89,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_119,Synthetic,2025-08-16,490.67,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_125,Polyester,2025-10-09,48.78,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_136,Cotton,2025-05-12,206.98,Mumbai,Maharashtra,West,2.1.0
+Textile_House_117,Cotton,2025-01-03,333.0,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_144,Silk,2025-02-20,896.34,Surat,Gujarat,West,2.1.0
+Textile_House_106,Cotton,2025-03-27,236.24,Surat,Gujarat,West,2.1.0
+Textile_House_135,Polyester,2025-06-25,585.97,Durgapur,West Bengal,East,2.1.0
+Textile_House_119,Linen,2025-08-23,545.91,Howrah,West Bengal,East,2.1.0
+Textile_House_133,Cotton,2025-07-16,50.1,Sambalpur,Odisha,East,2.1.0
+Textile_House_145,Linen,2025-03-17,379.68,Pune,Maharashtra,West,2.1.0
+Textile_House_136,Polyester,2025-08-27,549.99,Surat,Gujarat,West,2.1.0
+Textile_House_121,Linen,2025-07-19,315.12,Pune,Maharashtra,West,2.1.0
+Textile_House_117,Linen,2025-12-20,374.43,Pune,Maharashtra,West,2.1.0
+Textile_House_103,Polyester,2025-07-26,923.46,Durgapur,West Bengal,East,2.1.0
+Textile_House_130,Cotton,2025-03-04,722.59,Mumbai,Maharashtra,West,2.1.0
+Textile_House_110,Linen,2025-09-12,776.66,Surat,Gujarat,West,2.1.0
+Textile_House_125,Cotton,2025-08-06,751.33,Surat,Gujarat,West,2.1.0
+Textile_House_111,Synthetic,2025-03-31,134.32,Durgapur,West Bengal,East,2.1.0
+Textile_House_106,Cotton,2025-04-20,764.91,Puri,Odisha,East,2.1.0
+Textile_House_109,Polyester,2025-02-05,468.23,Puri,Odisha,East,2.1.0
+Textile_House_144,Silk,2025-09-08,749.57,Durgapur,West Bengal,East,2.1.0
+Textile_House_144,Silk,2025-06-12,566.73,Mumbai,Maharashtra,West,2.1.0
+Textile_House_101,Cotton,2025-04-22,553.99,Surat,Gujarat,West,2.1.0
+Textile_House_131,Silk,2025-07-21,670.58,Howrah,West Bengal,East,2.1.0
+Textile_House_126,Cotton,2025-10-20,566.8,Pune,Maharashtra,West,2.1.0
+Textile_House_115,Polyester,2025-08-25,592.14,Kolkata,West Bengal,East,2.1.0
+Textile_House_142,Synthetic,2025-02-24,45.63,Surat,Gujarat,West,2.1.0
+Textile_House_111,Cotton,2025-10-11,275.23,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_110,Cotton,2025-01-11,898.01,Cuttack,Odisha,East,2.1.0
+Textile_House_118,Linen,2025-07-16,672.75,Mumbai,Maharashtra,West,2.1.0
+Textile_House_148,Cotton,2025-04-17,760.97,Durgapur,West Bengal,East,2.1.0
+Textile_House_112,Silk,2025-10-24,8.05,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_115,Polyester,2025-02-16,139.08,Pune,Maharashtra,West,2.1.0
+Textile_House_138,Polyester,2025-01-09,576.4,Howrah,West Bengal,East,2.1.0
+Textile_House_128,Linen,2025-12-07,337.24,Cuttack,Odisha,East,2.1.0
+Textile_House_116,Polyester,2025-01-25,138.1,Howrah,West Bengal,East,2.1.0
+Textile_House_122,Silk,2025-07-08,299.98,Kolkata,West Bengal,East,2.1.0
+Textile_House_148,Cotton,2025-10-30,313.81,Pune,Maharashtra,West,2.1.0
+Textile_House_141,Linen,2025-09-13,75.24,Surat,Gujarat,West,2.1.0
+Textile_House_125,Synthetic,2025-10-14,410.19,Surat,Gujarat,West,2.1.0
+Textile_House_112,Synthetic,2025-04-13,828.66,Mumbai,Maharashtra,West,2.1.0
+Textile_House_107,Silk,2025-04-15,586.9,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_120,Polyester,2025-11-08,62.14,Pune,Maharashtra,West,2.1.0
+Textile_House_110,Linen,2025-03-13,255.4,Surat,Gujarat,West,2.1.0
+Textile_House_134,Cotton,2025-08-02,885.46,Howrah,West Bengal,East,2.1.0
+Textile_House_149,Polyester,2025-04-18,624.25,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_138,Silk,2025-01-31,751.87,Howrah,West Bengal,East,2.1.0
+Textile_House_132,Silk,2025-06-25,382.56,Durgapur,West Bengal,East,2.1.0
+Textile_House_136,Polyester,2025-03-29,471.82,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_119,Synthetic,2025-12-28,946.15,Pune,Maharashtra,West,2.1.0
+Textile_House_120,Cotton,2025-01-03,728.62,Mumbai,Maharashtra,West,2.1.0
+Textile_House_107,Linen,2025-06-06,739.15,Puri,Odisha,East,2.1.0
+Textile_House_130,Synthetic,2025-11-09,689.4,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_123,Linen,2025-12-26,216.88,Pune,Maharashtra,West,2.1.0
+Textile_House_139,Synthetic,2025-06-14,806.31,Durgapur,West Bengal,East,2.1.0
+Textile_House_101,Synthetic,2025-07-18,792.82,Mumbai,Maharashtra,West,2.1.0
+Textile_House_123,Polyester,2025-12-21,635.49,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_102,Cotton,2025-10-29,179.8,Durgapur,West Bengal,East,2.1.0
+Textile_House_141,Polyester,2025-09-19,189.37,Puri,Odisha,East,2.1.0
+Textile_House_124,Synthetic,2025-09-24,273.26,Durgapur,West Bengal,East,2.1.0
+Textile_House_150,Polyester,2025-03-29,324.36,Pune,Maharashtra,West,2.1.0
+Textile_House_123,Synthetic,2025-09-08,792.89,Mumbai,Maharashtra,West,2.1.0
+Textile_House_119,Silk,2025-09-07,204.41,Mumbai,Maharashtra,West,2.1.0
+Textile_House_115,Linen,2025-09-26,217.76,Mumbai,Maharashtra,West,2.1.0
+Textile_House_138,Synthetic,2025-09-13,598.77,Durgapur,West Bengal,East,2.1.0
+Textile_House_143,Linen,2025-06-09,536.56,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_141,Silk,2025-06-16,182.01,Pune,Maharashtra,West,2.1.0
+Textile_House_114,Silk,2025-08-23,816.09,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_146,Cotton,2025-05-09,71.25,Cuttack,Odisha,East,2.1.0
+Textile_House_108,Synthetic,2025-02-18,996.25,Sambalpur,Odisha,East,2.1.0
+Textile_House_144,Linen,2025-07-18,460.39,Sambalpur,Odisha,East,2.1.0
+Textile_House_130,Synthetic,2025-01-16,869.63,Howrah,West Bengal,East,2.1.0
+Textile_House_124,Polyester,2025-04-28,491.75,Pune,Maharashtra,West,2.1.0
+Textile_House_147,Cotton,2025-08-30,507.08,Surat,Gujarat,West,2.1.0
+Textile_House_150,Polyester,2025-03-17,973.97,Surat,Gujarat,West,2.1.0
+Textile_House_125,Linen,2025-05-11,940.99,Howrah,West Bengal,East,2.1.0
+Textile_House_104,Silk,2025-08-03,292.86,Howrah,West Bengal,East,2.1.0
+Textile_House_108,Linen,2025-09-12,168.35,Kolkata,West Bengal,East,2.1.0
+Textile_House_133,Silk,2025-09-12,462.81,Howrah,West Bengal,East,2.1.0
+Textile_House_116,Cotton,2025-12-16,447.01,Mumbai,Maharashtra,West,2.1.0
+Textile_House_103,Cotton,2025-12-27,170.94,Durgapur,West Bengal,East,2.1.0
+Textile_House_149,Silk,2025-03-11,57.98,Mumbai,Maharashtra,West,2.1.0
+Textile_House_148,Synthetic,2025-04-16,112.43,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_124,Linen,2025-12-16,188.47,Puri,Odisha,East,2.1.0
+Textile_House_137,Silk,2025-01-30,697.97,Cuttack,Odisha,East,2.1.0
+Textile_House_147,Linen,2025-11-07,526.63,Puri,Odisha,East,2.1.0
+Textile_House_106,Silk,2025-12-02,712.68,Mumbai,Maharashtra,West,2.1.0
+Textile_House_126,Polyester,2025-04-22,14.03,Durgapur,West Bengal,East,2.1.0
+Textile_House_109,Cotton,2025-04-10,112.38,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_105,Cotton,2025-08-06,400.49,Pune,Maharashtra,West,2.1.0
+Textile_House_116,Cotton,2025-07-11,680.82,Mumbai,Maharashtra,West,2.1.0
+Textile_House_118,Linen,2025-04-10,420.14,Pune,Maharashtra,West,2.1.0
+Textile_House_149,Silk,2025-09-29,428.54,Surat,Gujarat,West,2.1.0
+Textile_House_133,Silk,2025-05-19,224.83,Surat,Gujarat,West,2.1.0
+Textile_House_149,Linen,2025-06-07,794.06,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_125,Silk,2025-09-23,59.31,Howrah,West Bengal,East,2.1.0
+Textile_House_146,Polyester,2025-09-08,607.9,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_128,Silk,2025-10-30,787.39,Kolkata,West Bengal,East,2.1.0
+Textile_House_120,Linen,2025-11-10,754.13,Pune,Maharashtra,West,2.1.0
+Textile_House_131,Cotton,2025-01-11,544.85,Pune,Maharashtra,West,2.1.0
+Textile_House_142,Linen,2025-12-26,922.33,Kolkata,West Bengal,East,2.1.0
+Textile_House_128,Silk,2025-03-24,265.72,Sambalpur,Odisha,East,2.1.0
+Textile_House_121,Polyester,2025-03-25,934.71,Kolkata,West Bengal,East,2.1.0
+Textile_House_118,Cotton,2025-09-20,473.66,Mumbai,Maharashtra,West,2.1.0
+Textile_House_117,Synthetic,2025-06-18,291.09,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_146,Linen,2025-08-12,582.9,Puri,Odisha,East,2.1.0
+Textile_House_122,Linen,2025-08-10,861.89,Puri,Odisha,East,2.1.0
+Textile_House_125,Synthetic,2025-02-25,149.41,Pune,Maharashtra,West,2.1.0
+Textile_House_150,Cotton,2025-08-06,881.76,Durgapur,West Bengal,East,2.1.0
+Textile_House_126,Polyester,2025-12-23,342.7,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_110,Linen,2025-02-02,489.2,Sambalpur,Odisha,East,2.1.0
+Textile_House_118,Linen,2025-10-24,411.77,Mumbai,Maharashtra,West,2.1.0
+Textile_House_112,Cotton,2025-05-12,858.33,Surat,Gujarat,West,2.1.0
+Textile_House_146,Linen,2025-02-21,134.28,Surat,Gujarat,West,2.1.0
+Textile_House_146,Silk,2025-04-04,835.04,Pune,Maharashtra,West,2.1.0
+Textile_House_136,Cotton,2025-05-13,359.85,Pune,Maharashtra,West,2.1.0
+Textile_House_129,Polyester,2025-10-19,932.88,Puri,Odisha,East,2.1.0
+Textile_House_141,Cotton,2025-10-16,637.16,Surat,Gujarat,West,2.1.0
+Textile_House_142,Silk,2025-12-19,110.38,Kolkata,West Bengal,East,2.1.0
+Textile_House_102,Silk,2025-07-12,136.11,Kolkata,West Bengal,East,2.1.0
+Textile_House_119,Cotton,2025-01-30,633.16,Puri,Odisha,East,2.1.0
+Textile_House_144,Synthetic,2025-09-21,975.12,Surat,Gujarat,West,2.1.0
+Textile_House_127,Cotton,2025-09-27,336.32,Puri,Odisha,East,2.1.0
+Textile_House_130,Cotton,2025-04-04,937.0,Mumbai,Maharashtra,West,2.1.0
+Textile_House_105,Synthetic,2025-12-18,596.02,Kolkata,West Bengal,East,2.1.0
+Textile_House_135,Polyester,2025-11-04,561.79,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_147,Silk,2025-12-20,375.56,Pune,Maharashtra,West,2.1.0
+Textile_House_150,Polyester,2025-02-07,764.61,Durgapur,West Bengal,East,2.1.0
+Textile_House_147,Polyester,2025-04-05,733.74,Mumbai,Maharashtra,West,2.1.0
+Textile_House_110,Silk,2025-10-10,557.02,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_138,Polyester,2025-04-02,621.12,Pune,Maharashtra,West,2.1.0
+Textile_House_116,Synthetic,2025-07-01,162.88,Pune,Maharashtra,West,2.1.0
+Textile_House_134,Linen,2025-12-13,515.46,Puri,Odisha,East,2.1.0
+Textile_House_147,Synthetic,2025-07-01,569.66,Surat,Gujarat,West,2.1.0
+Textile_House_127,Silk,2025-11-25,156.65,Mumbai,Maharashtra,West,2.1.0
+Textile_House_139,Synthetic,2025-08-12,251.55,Pune,Maharashtra,West,2.1.0
+Textile_House_138,Cotton,2025-07-17,907.18,Surat,Gujarat,West,2.1.0
+Textile_House_136,Synthetic,2025-02-01,935.72,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_125,Synthetic,2025-04-07,397.26,Pune,Maharashtra,West,2.1.0
+Textile_House_134,Cotton,2025-03-02,968.8,Kolkata,West Bengal,East,2.1.0
+Textile_House_146,Silk,2025-03-10,130.57,Kolkata,West Bengal,East,2.1.0
+Textile_House_113,Cotton,2025-03-25,245.09,Mumbai,Maharashtra,West,2.1.0
+Textile_House_108,Cotton,2025-11-10,414.27,Pune,Maharashtra,West,2.1.0
+Textile_House_143,Silk,2025-11-17,138.29,Surat,Gujarat,West,2.1.0
+Textile_House_115,Polyester,2025-04-12,920.83,Durgapur,West Bengal,East,2.1.0
+Textile_House_112,Linen,2025-11-03,556.7,Sambalpur,Odisha,East,2.1.0
+Textile_House_102,Cotton,2025-11-10,879.12,Mumbai,Maharashtra,West,2.1.0
+Textile_House_124,Polyester,2025-09-17,457.3,Mumbai,Maharashtra,West,2.1.0
+Textile_House_112,Synthetic,2025-07-04,454.88,Cuttack,Odisha,East,2.1.0
+Textile_House_135,Cotton,2025-03-17,576.75,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_119,Synthetic,2025-06-18,465.89,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_131,Polyester,2025-09-06,646.07,Cuttack,Odisha,East,2.1.0
+Textile_House_145,Synthetic,2025-02-14,276.28,Puri,Odisha,East,2.1.0
+Textile_House_111,Synthetic,2025-01-10,383.13,Surat,Gujarat,West,2.1.0
+Textile_House_129,Polyester,2025-02-10,396.94,Cuttack,Odisha,East,2.1.0
+Textile_House_145,Cotton,2025-12-31,874.21,Mumbai,Maharashtra,West,2.1.0
+Textile_House_140,Cotton,2025-01-04,48.6,Surat,Gujarat,West,2.1.0
+Textile_House_115,Linen,2025-05-30,610.78,Surat,Gujarat,West,2.1.0
+Textile_House_136,Synthetic,2025-04-06,929.05,Puri,Odisha,East,2.1.0
+Textile_House_110,Synthetic,2025-01-02,50.11,Surat,Gujarat,West,2.1.0
+Textile_House_103,Polyester,2025-01-23,922.04,Kolkata,West Bengal,East,2.1.0
+Textile_House_105,Cotton,2025-03-16,674.74,Sambalpur,Odisha,East,2.1.0
+Textile_House_134,Silk,2025-09-23,790.21,Sambalpur,Odisha,East,2.1.0
+Textile_House_144,Cotton,2025-05-03,588.0,Surat,Gujarat,West,2.1.0
+Textile_House_120,Polyester,2025-08-22,58.43,Surat,Gujarat,West,2.1.0
+Textile_House_105,Polyester,2025-05-09,907.3,Kolkata,West Bengal,East,2.1.0
+Textile_House_128,Linen,2025-07-06,566.38,Durgapur,West Bengal,East,2.1.0
+Textile_House_144,Synthetic,2025-05-05,991.33,Pune,Maharashtra,West,2.1.0
+Textile_House_146,Cotton,2025-03-25,762.33,Durgapur,West Bengal,East,2.1.0
+Textile_House_102,Cotton,2025-03-25,604.7,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_128,Polyester,2025-01-15,5.77,Pune,Maharashtra,West,2.1.0
+Textile_House_146,Linen,2025-05-04,214.81,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_105,Synthetic,2025-07-25,693.29,Mumbai,Maharashtra,West,2.1.0
+Textile_House_148,Polyester,2025-10-03,767.05,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_111,Cotton,2025-11-19,939.89,Durgapur,West Bengal,East,2.1.0
+Textile_House_120,Linen,2025-07-31,531.17,Surat,Gujarat,West,2.1.0
+Textile_House_147,Polyester,2025-07-23,433.21,Mumbai,Maharashtra,West,2.1.0
+Textile_House_106,Polyester,2025-02-21,762.46,Mumbai,Maharashtra,West,2.1.0
+Textile_House_109,Polyester,2025-01-22,276.63,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_109,Cotton,2025-12-20,950.22,Mumbai,Maharashtra,West,2.1.0
+Textile_House_112,Cotton,2025-07-31,686.51,Pune,Maharashtra,West,2.1.0
+Textile_House_110,Polyester,2025-01-30,964.55,Mumbai,Maharashtra,West,2.1.0
+Textile_House_129,Cotton,2025-01-21,627.7,Kolkata,West Bengal,East,2.1.0
+Textile_House_133,Silk,2025-10-01,24.48,Cuttack,Odisha,East,2.1.0
+Textile_House_108,Silk,2025-11-14,327.08,Surat,Gujarat,West,2.1.0
+Textile_House_130,Cotton,2025-02-14,206.83,Howrah,West Bengal,East,2.1.0
+Textile_House_137,Silk,2025-05-21,955.79,Cuttack,Odisha,East,2.1.0
+Textile_House_121,Cotton,2025-01-04,74.96,Durgapur,West Bengal,East,2.1.0
+Textile_House_128,Synthetic,2025-08-04,151.61,Howrah,West Bengal,East,2.1.0
+Textile_House_116,Cotton,2025-06-26,608.93,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_130,Cotton,2025-01-14,519.2,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_123,Linen,2025-05-19,573.45,Pune,Maharashtra,West,2.1.0
+Textile_House_122,Polyester,2025-10-06,516.98,Cuttack,Odisha,East,2.1.0
+Textile_House_108,Synthetic,2025-02-01,551.72,Pune,Maharashtra,West,2.1.0
+Textile_House_140,Polyester,2025-01-25,879.11,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_137,Linen,2025-12-19,33.23,Puri,Odisha,East,2.1.0
+Textile_House_132,Cotton,2025-10-23,585.9,Mumbai,Maharashtra,West,2.1.0
+Textile_House_113,Linen,2025-08-12,175.68,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_149,Linen,2025-06-07,785.13,Mumbai,Maharashtra,West,2.1.0
+Textile_House_129,Linen,2025-12-30,682.51,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_134,Synthetic,2025-01-25,237.74,Howrah,West Bengal,East,2.1.0
+Textile_House_144,Silk,2025-06-05,946.37,Kolkata,West Bengal,East,2.1.0
+Textile_House_115,Linen,2025-07-12,109.79,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_135,Linen,2025-07-10,670.34,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_106,Linen,2025-04-30,37.08,Pune,Maharashtra,West,2.1.0
+Textile_House_124,Polyester,2025-02-24,707.63,Mumbai,Maharashtra,West,2.1.0
+Textile_House_113,Linen,2025-07-06,143.06,Surat,Gujarat,West,2.1.0
+Textile_House_104,Cotton,2025-05-10,100.78,Surat,Gujarat,West,2.1.0
+Textile_House_127,Cotton,2025-12-03,193.59,Howrah,West Bengal,East,2.1.0
+Textile_House_101,Polyester,2025-05-26,357.86,Mumbai,Maharashtra,West,2.1.0
+Textile_House_149,Silk,2025-03-10,356.13,Durgapur,West Bengal,East,2.1.0
+Textile_House_119,Polyester,2025-09-24,349.5,Kolkata,West Bengal,East,2.1.0
+Textile_House_141,Polyester,2025-10-02,998.22,Surat,Gujarat,West,2.1.0
+Textile_House_111,Cotton,2025-04-17,511.53,Surat,Gujarat,West,2.1.0
+Textile_House_132,Polyester,2025-12-31,427.85,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_114,Polyester,2025-03-11,980.19,Durgapur,West Bengal,East,2.1.0
+Textile_House_101,Silk,2025-10-11,378.11,Cuttack,Odisha,East,2.1.0
+Textile_House_103,Polyester,2025-01-27,581.14,Surat,Gujarat,West,2.1.0
+Textile_House_103,Silk,2025-11-11,644.74,Surat,Gujarat,West,2.1.0
+Textile_House_145,Synthetic,2025-08-08,454.69,Puri,Odisha,East,2.1.0
+Textile_House_145,Silk,2025-01-08,808.65,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_137,Synthetic,2025-10-19,680.41,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_147,Synthetic,2025-04-24,293.98,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_139,Silk,2025-02-06,880.76,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_150,Polyester,2025-09-15,797.62,Cuttack,Odisha,East,2.1.0
+Textile_House_112,Cotton,2025-05-18,705.17,Mumbai,Maharashtra,West,2.1.0
+Textile_House_120,Silk,2025-09-07,585.19,Cuttack,Odisha,East,2.1.0
+Textile_House_142,Synthetic,2025-05-22,805.13,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_136,Synthetic,2025-07-27,738.3,Mumbai,Maharashtra,West,2.1.0
+Textile_House_106,Polyester,2025-04-11,870.67,Surat,Gujarat,West,2.1.0
+Textile_House_123,Synthetic,2025-05-30,995.65,Kolkata,West Bengal,East,2.1.0
+Textile_House_109,Polyester,2025-03-25,400.43,Mumbai,Maharashtra,West,2.1.0
+Textile_House_128,Polyester,2025-02-07,659.09,Mumbai,Maharashtra,West,2.1.0
+Textile_House_119,Linen,2025-10-07,73.5,Surat,Gujarat,West,2.1.0
+Textile_House_140,Cotton,2025-04-18,772.34,Surat,Gujarat,West,2.1.0
+Textile_House_126,Linen,2025-04-25,762.43,Puri,Odisha,East,2.1.0
+Textile_House_122,Polyester,2025-01-08,606.38,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_126,Synthetic,2025-10-13,43.52,Howrah,West Bengal,East,2.1.0
+Textile_House_116,Linen,2025-11-30,675.96,Surat,Gujarat,West,2.1.0
+Textile_House_146,Synthetic,2025-08-20,794.21,Pune,Maharashtra,West,2.1.0
+Textile_House_143,Polyester,2025-12-03,677.71,Puri,Odisha,East,2.1.0
+Textile_House_124,Linen,2025-12-23,356.17,Cuttack,Odisha,East,2.1.0
+Textile_House_106,Synthetic,2025-02-01,134.88,Sambalpur,Odisha,East,2.1.0
+Textile_House_102,Polyester,2025-03-13,208.38,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_101,Cotton,2025-04-16,260.53,Cuttack,Odisha,East,2.1.0
+Textile_House_112,Linen,2025-01-09,994.67,Surat,Gujarat,West,2.1.0
+Textile_House_145,Linen,2025-08-15,499.72,Mumbai,Maharashtra,West,2.1.0
+Textile_House_106,Synthetic,2025-11-04,299.13,Surat,Gujarat,West,2.1.0
+Textile_House_122,Polyester,2025-12-29,581.54,Mumbai,Maharashtra,West,2.1.0
+Textile_House_130,Polyester,2025-10-07,6.32,Mumbai,Maharashtra,West,2.1.0
+Textile_House_122,Synthetic,2025-04-17,782.29,Pune,Maharashtra,West,2.1.0
+Textile_House_127,Cotton,2025-07-04,827.92,Howrah,West Bengal,East,2.1.0
+Textile_House_126,Cotton,2025-09-23,743.65,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_147,Silk,2025-06-14,264.08,Sambalpur,Odisha,East,2.1.0
+Textile_House_148,Cotton,2025-03-31,435.75,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_121,Synthetic,2025-06-17,322.8,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_123,Linen,2025-12-05,839.73,Surat,Gujarat,West,2.1.0
+Textile_House_122,Polyester,2025-02-18,482.8,Surat,Gujarat,West,2.1.0
+Textile_House_115,Linen,2025-02-25,669.4,Surat,Gujarat,West,2.1.0
+Textile_House_102,Silk,2025-12-08,591.09,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_142,Synthetic,2025-11-17,712.02,Mumbai,Maharashtra,West,2.1.0
+Textile_House_115,Silk,2025-10-05,157.47,Durgapur,West Bengal,East,2.1.0
+Textile_House_121,Linen,2025-11-11,752.5,Mumbai,Maharashtra,West,2.1.0
+Textile_House_107,Cotton,2025-12-08,445.1,Kolkata,West Bengal,East,2.1.0
+Textile_House_105,Polyester,2025-12-17,546.93,Cuttack,Odisha,East,2.1.0
+Textile_House_137,Polyester,2025-11-25,171.49,Pune,Maharashtra,West,2.1.0
+Textile_House_121,Silk,2025-05-05,65.14,Howrah,West Bengal,East,2.1.0
+Textile_House_111,Silk,2025-10-01,242.34,Mumbai,Maharashtra,West,2.1.0
+Textile_House_147,Polyester,2025-02-18,868.05,Cuttack,Odisha,East,2.1.0
+Textile_House_129,Synthetic,2025-08-30,821.85,Mumbai,Maharashtra,West,2.1.0
+Textile_House_111,Polyester,2025-01-30,279.67,Cuttack,Odisha,East,2.1.0
+Textile_House_101,Cotton,2025-10-17,746.65,Surat,Gujarat,West,2.1.0
+Textile_House_114,Cotton,2025-04-15,402.18,Mumbai,Maharashtra,West,2.1.0
+Textile_House_106,Cotton,2025-06-13,838.69,Pune,Maharashtra,West,2.1.0
+Textile_House_149,Polyester,2025-01-10,651.7,Kolkata,West Bengal,East,2.1.0
+Textile_House_110,Synthetic,2025-04-04,384.86,Howrah,West Bengal,East,2.1.0
+Textile_House_147,Polyester,2025-05-05,696.24,Sambalpur,Odisha,East,2.1.0
+Textile_House_121,Synthetic,2025-03-19,401.44,Mumbai,Maharashtra,West,2.1.0
+Textile_House_149,Cotton,2025-03-21,37.77,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_104,Silk,2025-10-01,718.6,Cuttack,Odisha,East,2.1.0
+Textile_House_138,Cotton,2025-11-23,978.2,Kolkata,West Bengal,East,2.1.0
+Textile_House_132,Polyester,2025-10-10,89.7,Pune,Maharashtra,West,2.1.0
+Textile_House_112,Polyester,2025-11-20,7.83,Kolkata,West Bengal,East,2.1.0
+Textile_House_105,Linen,2025-03-04,29.26,Puri,Odisha,East,2.1.0
+Textile_House_114,Polyester,2025-04-22,386.67,Puri,Odisha,East,2.1.0
+Textile_House_121,Synthetic,2025-11-20,226.31,Mumbai,Maharashtra,West,2.1.0
+Textile_House_121,Linen,2025-10-24,701.01,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_101,Cotton,2025-11-19,91.65,Surat,Gujarat,West,2.1.0
+Textile_House_150,Cotton,2025-10-24,705.28,Howrah,West Bengal,East,2.1.0
+Textile_House_120,Cotton,2025-03-11,542.15,Pune,Maharashtra,West,2.1.0
+Textile_House_148,Polyester,2025-03-12,226.46,Durgapur,West Bengal,East,2.1.0
+Textile_House_145,Linen,2025-11-07,888.77,Cuttack,Odisha,East,2.1.0
+Textile_House_143,Polyester,2025-09-01,204.65,Mumbai,Maharashtra,West,2.1.0
+Textile_House_110,Cotton,2025-01-19,936.06,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_103,Linen,2025-02-16,526.07,Kolkata,West Bengal,East,2.1.0
+Textile_House_136,Polyester,2025-08-04,752.56,Howrah,West Bengal,East,2.1.0
+Textile_House_131,Synthetic,2025-09-30,7.88,Howrah,West Bengal,East,2.1.0
+Textile_House_124,Polyester,2025-03-19,844.97,Cuttack,Odisha,East,2.1.0
+Textile_House_118,Silk,2025-05-10,366.54,Durgapur,West Bengal,East,2.1.0
+Textile_House_124,Polyester,2025-09-09,384.64,Mumbai,Maharashtra,West,2.1.0
+Textile_House_116,Linen,2025-09-22,941.99,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_104,Linen,2025-02-06,290.5,Mumbai,Maharashtra,West,2.1.0
+Textile_House_137,Silk,2025-01-23,518.14,Cuttack,Odisha,East,2.1.0
+Textile_House_101,Linen,2025-08-03,278.23,Howrah,West Bengal,East,2.1.0
+Textile_House_107,Polyester,2025-05-24,923.1,Durgapur,West Bengal,East,2.1.0
+Textile_House_120,Polyester,2025-12-20,212.9,Howrah,West Bengal,East,2.1.0
+Textile_House_126,Cotton,2025-12-18,531.25,Surat,Gujarat,West,2.1.0
+Textile_House_112,Polyester,2025-03-29,438.31,Cuttack,Odisha,East,2.1.0
+Textile_House_112,Synthetic,2025-02-02,648.77,Pune,Maharashtra,West,2.1.0
+Textile_House_122,Cotton,2025-06-15,237.82,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_120,Synthetic,2025-08-24,752.58,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_115,Silk,2025-09-25,521.0,Durgapur,West Bengal,East,2.1.0
+Textile_House_136,Linen,2025-03-24,904.15,Cuttack,Odisha,East,2.1.0
+Textile_House_109,Synthetic,2025-10-01,396.73,Surat,Gujarat,West,2.1.0
+Textile_House_131,Cotton,2025-01-25,237.06,Surat,Gujarat,West,2.1.0
+Textile_House_142,Synthetic,2025-11-22,956.91,Sambalpur,Odisha,East,2.1.0
+Textile_House_101,Synthetic,2025-06-23,940.39,Puri,Odisha,East,2.1.0
+Textile_House_117,Polyester,2025-06-27,198.21,Pune,Maharashtra,West,2.1.0
+Textile_House_140,Synthetic,2025-12-02,719.28,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_104,Cotton,2025-09-29,919.97,Kolkata,West Bengal,East,2.1.0
+Textile_House_124,Cotton,2025-04-17,34.34,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_122,Silk,2025-07-03,821.56,Durgapur,West Bengal,East,2.1.0
+Textile_House_142,Cotton,2025-05-03,941.73,Mumbai,Maharashtra,West,2.1.0
+Textile_House_142,Polyester,2025-10-20,889.12,Howrah,West Bengal,East,2.1.0
+Textile_House_113,Silk,2025-08-17,539.89,Howrah,West Bengal,East,2.1.0
+Textile_House_116,Silk,2025-03-16,735.07,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_145,Linen,2025-05-08,351.82,Surat,Gujarat,West,2.1.0
+Textile_House_114,Cotton,2025-02-25,861.3,Surat,Gujarat,West,2.1.0
+Textile_House_132,Cotton,2025-07-28,769.91,Puri,Odisha,East,2.1.0
+Textile_House_109,Synthetic,2025-02-08,8.28,Howrah,West Bengal,East,2.1.0
+Textile_House_125,Cotton,2025-01-29,227.65,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_131,Cotton,2025-03-08,780.4,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_103,Silk,2025-05-30,542.36,Kolkata,West Bengal,East,2.1.0
+Textile_House_146,Silk,2025-04-03,934.54,Surat,Gujarat,West,2.1.0
+Textile_House_138,Synthetic,2025-04-15,983.98,Surat,Gujarat,West,2.1.0
+Textile_House_133,Silk,2025-10-26,267.72,Durgapur,West Bengal,East,2.1.0
+Textile_House_135,Silk,2025-05-05,621.8,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_117,Linen,2025-05-10,885.51,Puri,Odisha,East,2.1.0
+Textile_House_114,Silk,2025-01-25,538.49,Pune,Maharashtra,West,2.1.0
+Textile_House_105,Linen,2025-10-19,105.17,Pune,Maharashtra,West,2.1.0
+Textile_House_131,Cotton,2025-11-24,749.97,Surat,Gujarat,West,2.1.0
+Textile_House_150,Cotton,2025-01-03,437.0,Mumbai,Maharashtra,West,2.1.0
+Textile_House_111,Cotton,2025-04-06,26.86,Durgapur,West Bengal,East,2.1.0
+Textile_House_107,Synthetic,2025-07-14,866.53,Surat,Gujarat,West,2.1.0
+Textile_House_131,Linen,2025-12-24,781.58,Howrah,West Bengal,East,2.1.0
+Textile_House_148,Silk,2025-07-11,452.98,Kolkata,West Bengal,East,2.1.0
+Textile_House_104,Cotton,2025-03-22,432.47,Pune,Maharashtra,West,2.1.0
+Textile_House_125,Polyester,2025-08-31,94.38,Durgapur,West Bengal,East,2.1.0
+Textile_House_132,Silk,2025-07-08,615.87,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_103,Cotton,2025-05-01,665.96,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_105,Synthetic,2025-02-16,74.33,Kolkata,West Bengal,East,2.1.0
+Textile_House_120,Silk,2025-11-29,349.07,Cuttack,Odisha,East,2.1.0
+Textile_House_128,Synthetic,2025-06-28,36.41,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_116,Silk,2025-04-16,321.63,Howrah,West Bengal,East,2.1.0
+Textile_House_129,Polyester,2025-09-22,472.97,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_116,Polyester,2025-12-16,961.37,Cuttack,Odisha,East,2.1.0
+Textile_House_148,Cotton,2025-03-09,351.74,Sambalpur,Odisha,East,2.1.0
+Textile_House_102,Silk,2025-06-11,71.68,Surat,Gujarat,West,2.1.0
+Textile_House_126,Polyester,2025-01-11,859.19,Pune,Maharashtra,West,2.1.0
+Textile_House_103,Synthetic,2025-11-05,275.61,Howrah,West Bengal,East,2.1.0
+Textile_House_132,Cotton,2025-01-19,288.77,Surat,Gujarat,West,2.1.0
+Textile_House_111,Silk,2025-10-18,879.83,Puri,Odisha,East,2.1.0
+Textile_House_127,Silk,2025-11-09,799.05,Kolkata,West Bengal,East,2.1.0
+Textile_House_140,Cotton,2025-08-07,112.71,Mumbai,Maharashtra,West,2.1.0
+Textile_House_103,Polyester,2025-05-02,202.14,Surat,Gujarat,West,2.1.0
+Textile_House_119,Linen,2025-08-22,674.13,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_107,Polyester,2025-05-12,889.29,Howrah,West Bengal,East,2.1.0
+Textile_House_121,Linen,2025-02-03,89.99,Pune,Maharashtra,West,2.1.0
+Textile_House_117,Linen,2025-03-14,195.51,Cuttack,Odisha,East,2.1.0
+Textile_House_145,Cotton,2025-07-27,144.29,Howrah,West Bengal,East,2.1.0
+Textile_House_141,Synthetic,2025-10-11,742.38,Durgapur,West Bengal,East,2.1.0
+Textile_House_138,Silk,2025-11-06,334.83,Surat,Gujarat,West,2.1.0
+Textile_House_133,Polyester,2025-10-01,53.26,Surat,Gujarat,West,2.1.0
+Textile_House_130,Cotton,2025-12-12,893.67,Durgapur,West Bengal,East,2.1.0
+Textile_House_145,Cotton,2025-07-17,425.25,Puri,Odisha,East,2.1.0
+Textile_House_129,Polyester,2025-06-24,894.94,Sambalpur,Odisha,East,2.1.0
+Textile_House_131,Silk,2025-06-15,89.76,Kolkata,West Bengal,East,2.1.0
+Textile_House_123,Cotton,2025-08-08,649.8,Pune,Maharashtra,West,2.1.0
+Textile_House_144,Cotton,2025-02-04,307.09,Mumbai,Maharashtra,West,2.1.0
+Textile_House_121,Polyester,2025-12-14,754.07,Kolkata,West Bengal,East,2.1.0
+Textile_House_132,Cotton,2025-10-04,838.08,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_124,Linen,2025-08-11,449.15,Ahmedabad,Gujarat,West,2.1.0
+Textile_House_110,Silk,2025-09-30,520.77,Cuttack,Odisha,East,2.1.0
+Textile_House_112,Silk,2025-09-12,756.91,Puri,Odisha,East,2.1.0
+Textile_House_130,Polyester,2025-09-16,972.91,Bhubaneswar,Odisha,East,2.1.0
+Textile_House_105,Polyester,2025-09-30,509.59,Surat,Gujarat,West,2.1.0
